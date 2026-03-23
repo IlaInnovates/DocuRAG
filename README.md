@@ -1,9 +1,0 @@
-sentence-transformers==2.7.0
-faiss-cpu==1.8.0
-transformers==4.41.0
-torch==2.3.0
-pymupdf==1.24.5
-streamlit==1.35.0
-pandas==2.2.2
-numpy==1.26.4
-openai==1.30.0
